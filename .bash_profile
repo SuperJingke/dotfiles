@@ -22,7 +22,7 @@ Write the command (or commands) that will display the following message 'Hello f
 
 	rmdir my-nonexistent-folder
 
-	or echo 'Whoops, cannot delete a folder that does not exist’
+	|| echo 'Whoops, cannot delete a folder that does not exist’
 
 5. Write the command (or commands) that will navigate to your desktop, and then to the parent folder.
 
